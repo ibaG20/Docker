@@ -32,7 +32,7 @@ obs: o id pode ser os 3 primeiros dígitos do id
 . -- name
 
  -> verificando os logs
-  > inevitavelmente vai aparecer um problema com o docker, e uma forma de verificar o que ta acontecendo é verificando os logs
+  (inevitavelmente vai aparecer um problema com o docker, e uma forma de verificar o que ta acontecendo é verificando os logs)
  . docker logs <id>
 
  -> removendo containers
