@@ -40,7 +40,7 @@
  #### . se ainda estiver rodando utiliza 
 - -f
 
-
+ 
 ---------------------------------------------------------------------------
 ### CRIANDO IMAGENS E AVANÇANDO EM CONTAINERS
 
